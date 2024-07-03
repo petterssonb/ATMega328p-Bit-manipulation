@@ -16,13 +16,10 @@
   
 
 ## Datasheet
-For more detailed information about the ATMega328p, you can download the datasheet or preview it directly in Chrome:
-
-
+For more detailed information about the ATMega328p, you can download the datasheet:
 
  - [Download Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/241077/ATMEL/ATMEGA328P.html)
 
- - [Preview in Chrome](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 
 ## Videos
 
